@@ -1,4 +1,4 @@
-// File: /Users/nickkk/Downloads/nikhil-static-app-v2/app/layout.tsx
+// File: /Users/nickkk/Documents/Cover Letter/2025/Impact/nikhil-static-app-v2/app/layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
