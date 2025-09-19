@@ -1,2 +1,2 @@
-.next\nnode_modules\n.env.local\n.vercel\n
+/.next
 node_modules
