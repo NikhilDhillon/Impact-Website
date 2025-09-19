@@ -77,7 +77,7 @@ export default function Page() {
         <div className="mt-8 w-full">
           <CoverLetter />
         </div>
-        <footer className="mt-10 text-center text-xs text-slate-300/70">© {new Date().getFullYear()} Nikhil Dhillon · Static page built with Next.js & Tailwind</footer>
+        <footer className="mt-10 text-center text-xs text-slate-300/70">© {new Date().getFullYear()} Nikhil Dhillon</footer>
       </main>
     </div>
   );
