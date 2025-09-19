@@ -1,0 +1,1 @@
+# Nikhil Static Application Page (v2)\n\nNext.js + Tailwind static site with:\n- Black background\n- Skills pills\n- Inline Cover Letter\n- Resume, Portfolio, GitHub links
